@@ -17,7 +17,7 @@
 ## 🚀 About Me
 
 - 🤖 **AI Agent engineer** — I build the engineering layer around LLMs: ReAct planning loops, tool use, conversation memory, and RAG retrieval routing.
-- 🧑‍💻 **Full-stack, backend-leaning** — 7 years shipping production systems in Java, Go, and TypeScript/React.
+- 🧑‍💻 **Full-stack, backend-leaning** — 8 years shipping production systems in Java, Go, and TypeScript/React.
 - ⚡ **Heavy Claude Code user & vibe-coding practitioner** — I build with agents daily and reason about tool-use strategy, context management, and agent UX from first-hand experience.
 - 🌏 **Bilingual** — Chinese (native) & English (4 years in an all-English environment at Microsoft).
 - 📫 Reach me at **teliu0228@gmail.com** — open to opportunities in **China / Singapore**.
