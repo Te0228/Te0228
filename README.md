@@ -8,7 +8,7 @@
 
 <a href="mailto:teliu0228@gmail.com"><img src="https://img.shields.io/badge/Email-teliu0228@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
 <img src="https://img.shields.io/badge/Location-Beijing,%20China-4285F4?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Location"/>
-<img src="https://img.shields.io/badge/Open%20to-China%20/%20Singapore-2EA44F?style=for-the-badge&logo=briefcase&logoColor=white" alt="Open to work"/>
+<img src="https://img.shields.io/badge/Open%20to-Beijing%20/%20Shanghai%20/%20Shenzhen-2EA44F?style=for-the-badge&logo=briefcase&logoColor=white" alt="Open to work"/>
 
 </div>
 
@@ -20,7 +20,7 @@
 - 🧑‍💻 **Full-stack, backend-leaning** — 8 years shipping production systems in Java, Go, and TypeScript/React.
 - ⚡ **Heavy Claude Code user & vibe-coding practitioner** — I build with agents daily and reason about tool-use strategy, context management, and agent UX from first-hand experience.
 - 🌏 **Bilingual** — Chinese (native) & English (4 years in an all-English environment at Microsoft).
-- 📫 Reach me at **teliu0228@gmail.com** — open to opportunities in **China / Singapore**.
+- 📫 Reach me at **teliu0228@gmail.com** — open to opportunities in **Beijing / Shanghai / Shenzhen only**.
 
 ---
 
