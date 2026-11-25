@@ -2,9 +2,9 @@
 
 # Hi, I'm Te Liu (刘特) 👋
 
-### AI Agent Engineer · Full-Stack Developer
+### AI Agent Engineer · AI Coding · Full-Stack Development
 
-*Building LLM agents, code assistants & RAG systems — 8 years across Microsoft, Meituan & Zhipu AI*
+*Building AI agents and coding tools — from understanding internals to shipping production systems.*
 
 <a href="mailto:teliu0228@gmail.com"><img src="https://img.shields.io/badge/Email-teliu0228@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
 <img src="https://img.shields.io/badge/Location-Beijing,%20China-4285F4?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Location"/>
