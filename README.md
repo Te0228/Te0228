@@ -35,16 +35,15 @@
 
 ---
 
-## 🛠 Tech Stack
+## Engineering & Tools
 
-| Area | Technologies & Focus |
-|---|---|
-| AI & Agents | LLM Agents · ReAct · RAG · Qdrant |
-| Coding Agents | Codex (usage & internals) · Claude Code |
-| Languages | Java · Go · TypeScript · Python |
-| Frontend | React |
-| Infrastructure | Kubernetes · Docker · Argo CD · Prometheus · Grafana · GitLab CI |
-| Currently Learning | Reinforcement Learning |
+**Agents & AI Coding** · Codex · Claude Code  
+Agent loops, tool execution, context management, and retrieval systems.
+
+**Languages & Frontend** · Java · Go · TypeScript · Python · React
+
+**Infrastructure** · Kubernetes · Docker · Qdrant  
+Argo CD · Prometheus · Grafana · GitLab CI
 
 ---
 
